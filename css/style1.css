@@ -66,18 +66,18 @@ a:active {
 }
 
 .container{
- display: grid;
- grid-template-columns:1fr 1fr 1fr;
- grid-template-rows:auto auto auto auto;
- gap: 20px;
- padding: 5px 5px 5px;
- box-sizing: border-box;
- border: px solid black;
- content: 500px;
-}
-
-.header {
- background-color: black;
- gap: 2px;
- width: 50px;
-}
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-rows:auto auto auto auto;
+    gap: 20px;
+    padding: 5px 5px 5px;
+    box-sizing: border-box;
+    border: 10px solid black;
+    content: 500px;
+   }
+   
+   .header {
+    background-color: black;
+    gap: 2px;
+    width: 50px;
+   }
