@@ -57,7 +57,7 @@ a:link {
 
 /* visited link */
 a:visited {
- color:yellow;
+ color:blueviolet;
  text-decoration: underline;
 }
 /* selected link */
